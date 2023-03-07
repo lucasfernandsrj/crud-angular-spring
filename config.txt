@@ -1,0 +1,5 @@
+nvm install 14.17.5
+
+nvm use 14.17.5
+
+npm install -g @angular/cli
