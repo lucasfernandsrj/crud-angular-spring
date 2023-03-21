@@ -8,7 +8,7 @@ const routes: Routes = [
     loadChildren: () => import('./courses/courses.module').then(m => m.CoursesModule)
   }
 ];
-
+1234
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
   exports: [RouterModule]

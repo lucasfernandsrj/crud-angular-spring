@@ -3,3 +3,13 @@ nvm install 14.17.5
 nvm use 14.17.5
 
 npm install -g @angular/cli
+
+ng new crud-angular
+
+ng add @angular/material
+
+ng g m courses --routing
+
+ng g c courses/courses  
+
+ng serve
