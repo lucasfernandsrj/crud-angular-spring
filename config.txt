@@ -13,3 +13,7 @@ ng g m courses --routing
 ng g c courses/courses  
 
 ng serve
+
+---
+extensao TS hero
+comando: Ctrl + Alt + O para organizar o código
